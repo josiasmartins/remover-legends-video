@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form-container input {
+  margin: 10px;
+  padding: 5px;
+}
+
+.form-container button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.video-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+video {
+  max-width: 100%;
+}
